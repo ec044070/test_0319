@@ -1,8 +1,3 @@
-<?php
-$message = "Hello World";
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +7,6 @@ $message = "Hello World";
     <title>Document</title>
 </head>
 <body>
-    <h1><?php echo $message;?></h1>
-    <a href="hello2.php">hello2</a>
+    <h1>Hello 2</h1>
 </body>
 </html>
